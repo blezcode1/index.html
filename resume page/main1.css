@@ -21,17 +21,19 @@ img{
 #zuri1{
     margin-top: 20px;
     /* padding-top: 150px; */
-    width: 30% ;
+    width: 25% ;
+    height: auto;
     border: solid orange 2px;
-    line-height: 2;
+    line-height: 1.5;
     background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(176,125,141,1) 26%, rgba(221,222,67,1) 53%, rgba(223,223,65,1) 54%, rgba(234,231,52,1) 60%, rgba(244,240,39,1) 66%, rgba(253,247,29,0.29175420168067223) 71%, rgba(253,244,31,1) 72%, rgba(253,241,33,1) 73%, rgba(253,235,37,1) 75%, rgba(253,40,166,1) 77%, rgba(253,204,54,1) 85%, rgba(252,176,69,1) 94%, rgba(252,176,69,1) 95%, rgba(252,176,69,1) 98%);
     
 }
 #zuri1 h5{
-    
+    margin-top: 50px;
     width: 200px;
-    padding-left: 5px;
+    height: auto;
+    /* padding-left: 5px; */
    border-style: outset;
    border-radius: 5px;
    box-shadow: 16px 4px;
@@ -39,31 +41,40 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(176,125,141,1) 26
    background-color: rgb(27, 27, 27);
    color: orange;
 }
-
+#contact{
+    margin-right: 2px;
+}
 
 #zuri2 {
     margin-top: 20px;
+    padding-top: 2px;
     width: 450px;
-    /* border:solid papayawhip 2px; */
     background-color: orange;
 
 }
+ 
 
-/* #zuri2 h4{
-    font-weight: bold;
-} */
+}
+#zuri2 h4{
+    margin-top: 15px;
+    padding: 10px;
+}
 .about-me{
-    padding-top: 20px;
+    margin-top: 5px;
 }
 span .fa{ 
-    padding: 0 15px 0 5px;
+    padding: 0 5px 0 15px;
+
 }
  
 
 
-/* p{
-    padding-top: 10px;
-} */
+p{
+    padding-top: 2px;
+    /* text-decoration: top-size, 15px; */
+}
+
+
 
 #zuri1 ul{
     list-style-type: none;
